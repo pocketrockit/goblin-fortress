@@ -16,7 +16,7 @@ Get the full package (mod + Goblin Therapist + SoundSense) from the v2.0.0 relea
 
 1. Copy the contents of "Goblin Fortress Mod" into the Dwarf Fortress Classic 0.47.05 folder, merging folders and replacing the matching raw files.
 2. The included data/init/init.txt enables graphics and selects the Pastel Fairytale tileset. Init settings are global to the game. Back up your existing init.txt first if it contains settings you want to keep.
-3. Optional — sound: copy the `soundsense` folder into your Dwarf Fortress folder, start the game and load your fortress, then run `soundSense.cmd` inside the soundsense folder (a Java runtime is required). See `INSTALL-DARK-DEPTHS.txt` in that folder for details.
+3. Optional — sound: copy the `soundsense` folder into your Dwarf Fortress folder, start the game and load your fortress, then start the game with the included `Play Goblin Fortress` launcher (a Java runtime is required). See `INSTALL-DARK-DEPTHS.txt` in that folder for details.
 
 ## Running Goblin Therapist
 
